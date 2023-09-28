@@ -1,0 +1,133 @@
+.container {
+    top: 0;
+    left: 0;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+}
+header {
+    height: 300px;
+    width: 100%;
+    color: #fff;
+    background: #250af2 url("../img/cosmos2.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+main {
+    width: 80%;
+    margin: 0 auto;
+}
+section {
+    width: 80%;
+    margin: 0 auto;
+}
+main article {
+    display: inline-block;
+    margin: 5px;
+    color: #fff;
+}
+main article:hover {
+    position: relative;
+    display: inline-block;
+    top: 5px;
+}
+section article {
+    display: inline-block;
+    margin: 5px;
+    color: #fff;
+}
+h1 {
+    font-size: 3em;
+    padding: 15px 25px 10px;
+}
+header p {
+    text-align: right;
+    padding: 0px 25% 25px;
+}
+h2 {
+    text-align: center;
+    font-size: 2em;
+    padding: 1% 30%;
+}
+.nav {
+    margin: 5% auto;
+    justify-content: center;
+}
+.nav a {
+    background-color: #fff;
+    border: 3px solid #16d4f2;
+    color: #16d4f2;
+    font-size: 1em;
+    text-align: center;
+    padding: 1% 2%;
+    margin: 15px;
+    border-radius: 25%;
+}
+a {
+    text-decoration: none;
+}
+img {
+    width: 10em;
+    height: 10em;
+    object-fit: cover;
+}
+img:hover {
+    position: relative;
+    top: 5px;
+}
+.picture1 {
+    width: 10em;
+    height: 10em;
+    background: #000 url("../img/city1.jpeg");
+    position: relative;
+}
+.picture2 {
+    width: 10em;
+    height: 10em;
+    background: #000 url("../img/city2.jpeg");
+    position: relative;
+}
+.picture3 {
+    width: 10em;
+    height: 10em;
+    background: #000 url("../img/city3.jpeg");
+    position: relative;
+}
+.picture4 {
+    width: 10em;
+    height: 10em;
+    background: #000 url("../img/city4.jpeg");
+    position: relative;
+}
+.picture5 {
+    width: 10em;
+    height: 10em;
+    background: #000 url("../img/city5.jpeg");
+    position: relative;
+}
+.picture6 {
+    width: 10em;
+    height: 10em;
+    background: #000 url("../img/city6.jpeg");
+    position: relative;
+}
+.picture7 {
+    width: 10em;
+    height: 10em;
+    background: #000 url("../img/city7.jpeg");
+    position: relative;
+}
+.picture8 {
+    width: 10em;
+    height: 10em;
+    background: #000 url("../img/city8.jpeg");
+    position: relative;
+}
+article h6 {
+    background-color: rgba(86, 92, 93, 0.5);
+    width: 10em;
+    padding: 3px;
+    position: absolute;
+    bottom: 8px;
+}
